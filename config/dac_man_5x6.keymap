@@ -33,13 +33,13 @@
 
 
             bindings = <
-&kp Q      &kp W     &kp E      &kp R      &kp T                           &kp P      &kp O      &kp I      &kp U      &kp Y
-&kp A      &kp S     &kp D      &kp F      &kp G                           &kp BSLH   &kp L      &kp K      &mt J      &kp H
-&kp Z      &kp X     &kp C      &kp V      &kp B                           &kp N1      &kp DOT  &kp COMMA    &kp M      &kp N
-                      &kp LBKT  &mt LGUI RBKT                                                               &kp MINUS  &kp EQUAL
-                                          &mo RAISE  &kp SPACE                  &kp N1   &mo N2
-                                                      &kp HOME &kp LSHIFT                   &kp N3    &kp N4
-                                                      &kp END  &kp INS                      &kp DEL     &kp PG_DN                                                     
+&kp Q    &kp W     &kp E      &kp R      &kp T                          &kp P      &kp O      &kp I      &kp U      &kp Y
+&kp A    &kp S     &kp D      &kp F      &kp G                          &kp BSLH   &kp L      &kp K      &mt J      &kp H
+&kp Z    &kp X     &kp C      &kp V      &kp B                          &kp N1     &kp DOT    &kp COMMA  &kp M      &kp N
+                   &kp LBKT  &mt LGUI RBKT                                                    &kp MINUS  &kp EQUAL
+                                    &mo RAISE  &kp SPACE                &kp N1   &mo N2
+                                               &kp HOME &kp LSHIFT                   &kp N3    &kp N4
+                                               &kp END  &kp INS                      &kp DEL   &kp PG_DN                                                     
             >;
         };
 
